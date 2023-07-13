@@ -10,6 +10,8 @@ import Card from 'react-bootstrap/Card';
 import './AddTask.css';
   
 // function started
+// git checking
+
 function AddTask({onAdd,data,updateId}){
   const [name,setName] = useState('')
   const [phNum, setPhNum] = useState('')
