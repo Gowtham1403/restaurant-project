@@ -28,8 +28,17 @@
       "id": 5,
       "name": "Table 5",
       "class": "E",
-      "availablity": true
+      "availablity": false
     }
   ],
-  "bookings": []
+  "bookings": [
+    {
+      "name": "Abisha",
+      "phNum": "6369826006",
+      "table": "5",
+      "peopleCount": "2",
+      "date": "2023-07-23",
+      "id": 1
+    }
+  ]
 }
